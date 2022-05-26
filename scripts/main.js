@@ -7,7 +7,7 @@ const api = {
 
   const geo = {
     key: api.key,
-    base: 'http://api.openweathermap.org/geo/1.0/direct?q=',
+    base: 'https://api.openweathermap.org/geo/1.0/direct?q=',
     end: '&limit=3&appid='
   }
   
